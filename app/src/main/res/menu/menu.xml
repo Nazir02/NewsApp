@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item
+    android:id="@+id/mainFragment"
+     android:icon="@drawable/ic_baseline_electric_car_24"
+     android:title="Tesla" />
+ <item
+     android:id="@+id/topBusiness"
+     android:icon="@drawable/ic_baseline_local_atm_24"
+     android:title="TopBusiness"
+     />
+ <item
+     android:id="@+id/wallStreetJournal"
+     android:icon="@drawable/ic_baseline_receipt_long_24"
+     android:title="Wall Street Journal"
+     />
+</menu>
